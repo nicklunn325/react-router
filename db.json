@@ -1,0 +1,19 @@
+{
+    "restaurants":[
+        {
+            "id": 1,
+            "name": "Red Lobster",
+            "cuisine": "Biscuits"
+        },
+        {
+            "id": 2,
+            "name": "Moogie's",
+            "cuisine": "BBQ"
+        },
+        {
+            "id":3,
+            "name":"Chick-A-Fil",
+            "cuisine": "Eat Mor Chikin"
+        }
+    ]
+}
